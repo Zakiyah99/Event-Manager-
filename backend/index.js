@@ -38,7 +38,7 @@ app.use(express.json());
 
 app.use(cors(
     {
-        origin: ["http://localhost:5173", "https://dugsiiye.com"]
+        origin: ["http://localhost:5173", "https://event-manager-bice-xi.vercel.app"]
     }
 ))
 

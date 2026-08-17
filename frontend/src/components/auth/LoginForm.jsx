@@ -22,7 +22,7 @@ const LoginForm = () => {
 
     // State for form values
     const [formValues, setFormValues] = useState({
-        email: 'mchamuuda@gmail.com',
+        email: 'zakia@gmail.com',
         password: '123456'
     })
     const [error, setError] = useState(null);
